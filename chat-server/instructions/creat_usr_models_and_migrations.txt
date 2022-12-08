@@ -1,0 +1,10 @@
+	postgresql
+
+1.Create user model
+
+2.Create user migration
+
+3.create user seeder
+
+4.Hash passwords
+

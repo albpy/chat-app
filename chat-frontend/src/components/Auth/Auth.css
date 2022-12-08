@@ -1,0 +1,8 @@
+@import '../../assets/scss/_variables.css';
+.image-section{
+	height: 30%;
+	max-width: 40%;
+	}
+.primary {
+	color: blue;
+	}

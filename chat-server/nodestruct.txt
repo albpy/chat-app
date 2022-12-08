@@ -1,0 +1,14 @@
+.env
+config/
+controllers/
+database/
+index.js
+middleware/
+node_modules/
+nodestruct.txt
+package-lock.json
+package.json
+public/
+router/
+socket/
+uploads/
